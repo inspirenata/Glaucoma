@@ -1,2 +1,0 @@
-# Glaucoma
-Classification glaucoma disease
